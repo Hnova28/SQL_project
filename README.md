@@ -1,5 +1,8 @@
 # SQL_project
 <img width="600" alt="image" src="https://github.com/user-attachments/assets/3df97174-8ecd-4efa-8124-ad88efbead7d" />
+<br>
+<br>
+<br>
 Basic Queries
 1) Retrieve all books in the "Biography" genre
 2) Find books published before the year 1950
